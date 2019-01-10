@@ -2,4 +2,4 @@
 https://www.youtube.com/watch?v=zp4BMR88260 watch this for context
 
 The answer to his "try it yourself"
-![SOLUTION](tempTOMSCOTT.jpg?raw=true "Solution")
+![SOLUTION](tempTOMSCOTT.png?raw=true "Solution")
